@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 120,
+      "brand": "SoundMax",
+      "rating": 4.5,
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "category": "Wearables",
+      "price": 89.99,
+      "stock": 75,
+      "brand": "FitPulse",
+      "rating": 4.3,
+      "description": "Track your fitness activities, heart rate, and sleep patterns with this smart watch.",
+      "image": "https://example.com/images/fitness-watch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 49.99,
+      "stock": 60,
+      "brand": "KeyPro",
+      "rating": 4.7,
+      "description": "RGB backlit mechanical keyboard designed for gamers and programmers.",
+      "image": "https://example.com/images/keyboard.jpg"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Monitor",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 40,
+      "brand": "ViewBest",
+      "rating": 4.6,
+      "description": "27-inch 4K monitor with ultra-thin bezel and vibrant display quality.",
+      "image": "https://example.com/images/monitor.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Portable Power Bank 20000mAh",
+      "category": "Gadgets",
+      "price": 29.99,
+      "stock": 200,
+      "brand": "ChargeNow",
+      "rating": 4.4,
+      "description": "High-capacity power bank with fast charging support for multiple devices.",
+      "image": "https://example.com/images/powerbank.jpg"
+    }
+  ]
+}
