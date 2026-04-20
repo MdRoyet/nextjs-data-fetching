@@ -1,12 +1,17 @@
+import Link from "next/link";
+
 const Header = () => {
   const links = (
     <>
-      <li>
-        <a>Item 12</a>
-      </li>
-      <li>
-        <a>Item 13</a>
-      </li>
+      <ul className="flex gap-4">
+        {/* The UL is the flex container; it aligns the LIs */}
+        <li>
+          <Link href="/">Home</Link>
+        </li>
+        <li>
+          <Link href="/posts">Posts</Link>
+        </li>
+      </ul>
     </>
   );
   return (
