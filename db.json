@@ -55,5 +55,57 @@
       "description": "High-capacity power bank with fast charging support for multiple devices.",
       "image": "https://example.com/images/powerbank.jpg"
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "publishedYear": 2018,
+      "price": 15.99,
+      "rating": 4.8,
+      "image": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "publishedYear": 1988,
+      "price": 12.5,
+      "rating": 4.6,
+      "image": "https://example.com/images/the-alchemist.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "publishedYear": 1997,
+      "price": 14.0,
+      "rating": 4.5,
+      "image": "https://example.com/images/rich-dad-poor-dad.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "publishedYear": 2016,
+      "price": 18.75,
+      "rating": 4.7,
+      "image": "https://example.com/images/deep-work.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "genre": "Personal Development",
+      "publishedYear": 1937,
+      "price": 10.99,
+      "rating": 4.4,
+      "image": "https://example.com/images/think-and-grow-rich.jpg"
+    }
   ]
 }
