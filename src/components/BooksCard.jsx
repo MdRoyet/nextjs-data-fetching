@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const BooksCard = ({ book }) => {
   const { title, author, publishedYear, genre, price } = book;
   return (
@@ -11,7 +13,9 @@ const BooksCard = ({ book }) => {
           <p>{genre}</p>
           <p>{price}</p>
           <div className="justify-end card-actions">
-            <button className="btn btn-primary">Buy Now</button>
+            <Link href={`/books/${book.id}`}>
+              <button className="btn btn-primary">Show Details</button>
+            </Link>
           </div>
         </div>
       </div>
